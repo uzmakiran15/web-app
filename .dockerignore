@@ -1,0 +1,9 @@
+target
+nbproject
+build
+dist
+*.log
+*.iml
+.idea
+.git
+.gitignore
